@@ -10,6 +10,7 @@ To get started, make sure you have Python installed on your system. Then, instal
 
 ```bash
 pip install tensorflow numpy opencv-python-headless matplotlib scikit-learn
+'''
 
 These dependencies include TensorFlow for machine learning, NumPy for number crunching, OpenCV for image processing, Matplotlib for visualizing data, and scikit-learn for data prep and evaluation.
 
