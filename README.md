@@ -42,4 +42,4 @@ My Traffic Recognition Machine Learning Program is a game-changer in the world o
 This program is distributed under the MIT License, so feel free to tweak it and share it as you see fit.
 
 ## Author
-[Evan Harlan](github.com/EvanHarlan)
+[Evan Harlan](https://github.com/EvanHarlan)
