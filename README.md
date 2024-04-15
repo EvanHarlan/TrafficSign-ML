@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Python program is designed to effectively identify and categorize traffic signs depicted in images using convolutional neural networks (CNNs). By employing state-of-the-art deep learning techniques, it facilitates the automated recognition and classification of diverse traffic sign variants.
+This Python program is designed to effectively identify and categorize traffic signs depicted in images.
 
 ## Installation
 
